@@ -2,6 +2,8 @@
 
 npm i bootstrap
 search https://getbootstrap.com
+Extention tp vscode: ES7+
+install React Developer Tools from your browser
 
 ## prerequisites
 
@@ -32,3 +34,4 @@ search https://getbootstrap.com
 - Managing state
 - Passing input via props
 - Debugging React apps
+  30min
