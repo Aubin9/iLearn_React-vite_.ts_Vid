@@ -1,5 +1,7 @@
+import { ReactNode } from "react";
+
 interface Props {
-  children: string;
+  children: ReactNode;
   color?: string; // instead of using string: 'primary' | 'secondary' | 'danger', ...
   onClick: () => void;
 }

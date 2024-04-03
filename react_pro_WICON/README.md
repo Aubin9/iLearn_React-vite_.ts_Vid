@@ -34,4 +34,11 @@ install React Developer Tools from your browser
 - Managing state
 - Passing input via props
 - Debugging React apps
-  30min
+
+## Styling components
+
+- Vanilla CSS
+- CSS modules
+- CSS-in-JS
+- Using CSS libraries
+- Adding icons: install react-icons
