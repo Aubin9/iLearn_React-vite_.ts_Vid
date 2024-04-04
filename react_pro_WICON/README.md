@@ -42,3 +42,8 @@ install React Developer Tools from your browser
 - CSS-in-JS
 - Using CSS libraries
 - Adding icons: install react-icons
+
+## Managing component state
+
+- understanding the state hook: react updates state asynchronously, state is stored outside of components, use hooks at the top level of your component
+- choosing the state structure
