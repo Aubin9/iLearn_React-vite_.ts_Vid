@@ -47,3 +47,16 @@ install React Developer Tools from your browser
 
 - understanding the state hook: react updates state asynchronously, state is stored outside of components, use hooks at the top level of your component
 - choosing the state structure
+
+## Building Forms
+
+- React Hook forms for managing hook state
+- zod for data validation: npm i zod
+  npm i react-hook
+  npm i @hookform/resolvers
+
+## Connecting the frontend to the backend
+
+- understand the effect hook: to execute a piece of code after a component is rendered. Make a pure component is to make the code rum the same output when make call of it
+- Effect Dependencies
+- Effect Clean Up
